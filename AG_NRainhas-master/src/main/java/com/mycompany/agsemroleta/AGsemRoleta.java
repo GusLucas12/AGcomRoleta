@@ -8,8 +8,8 @@ package com.mycompany.agsemroleta;
 public class AGsemRoleta {
 
     public static void main(String[] args) {
-                int nRainhas =16 ;
-		int nPop = 30;
+                int nRainhas =8 ;
+		int nPop = 20;
 		int nElite = 4;
 		int numGer = 10000;
 		
